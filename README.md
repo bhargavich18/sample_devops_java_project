@@ -1,1 +1,1 @@
-# sample_devops_java_project
+# Devops2024Training-Java-WAR
