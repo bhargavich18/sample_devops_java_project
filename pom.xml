@@ -2,15 +2,15 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <modelVersion>4.0.0</modelVersion>
 
-        <groupId>com.github.bhargavich18</groupId>
+        <groupId>com.github.vijay2181</groupId>
         <artifactId>Example</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <name>Example</name>
         <packaging>war</packaging>
-        <url>https://github.com/bhargavich18/</url>
+        <url>https://github.com/vijay2181/</url>
 
         <issueManagement>
-                <url>https://github.com/bhargavich18/issues</url>
+                <url>https://github.com/vijay2181/issues</url>
                 <system>GitHub Issues</system>
         </issueManagement>
 
