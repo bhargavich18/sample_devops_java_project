@@ -2,26 +2,26 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <modelVersion>4.0.0</modelVersion>
 
-        <groupId>com.github.vijay2181</groupId>
+        <groupId>com.github.bhargavich18</groupId>
         <artifactId>Example</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <name>Example</name>
         <packaging>war</packaging>
-        <url>https://github.com/vijay2181/</url>
+        <url>https://github.com/bhargavich18/</url>
 
         <issueManagement>
-                <url>https://github.com/vijay2181/issues</url>
+                <url>https://github.com/bhargavich18/issues</url>
                 <system>GitHub Issues</system>
         </issueManagement>
 
         <scm>
-                <url>https://github.com/vijay2181/</url>
+                <url>https://github.com/bhargavich18/</url>
                 <connection>scm:git:git://github.com//java-maven-ci.git</connection>
-                <developerConnection>scm:git:git@github.com/vijay2181/java-maven-ci.git</developerConnection>
+                <developerConnection>scm:git:git@github.com/bhargavich18/java-maven-ci.git</developerConnection>
         </scm>
 
         <properties>
-                <sonar.host.url>http://52.90.177.83:9000</sonar.host.url>
+                <sonar.host.url>http://18.207.211.255:9000</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -30,11 +30,11 @@
             <distributionManagement>
                         <snapshotRepository>
                                 <id>nexus</id>
-                                <url>http://54.162.47.55:8081/repository/app-snapshots/</url>
+                                <url>http://34.239.253.142:8081/repository/app-snapshots/</url>
                         </snapshotRepository>
                         <repository>
                                 <id>nexus</id>
-                                <url>http://54.162.47.55:8081/repository/app-releases/</url>
+                                <url>http://34.239.253.142:8081/repository/app-releases/</url>
                         </repository>
                 </distributionManagement>
         <dependencies>
