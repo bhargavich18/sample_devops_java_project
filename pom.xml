@@ -21,7 +21,7 @@
         </scm>
 
         <properties>
-                <sonar.host.url>http://44.206.238.104:9000</sonar.host.url>
+                <sonar.host.url>http://52.90.177.83:9000</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -30,11 +30,11 @@
             <distributionManagement>
                         <snapshotRepository>
                                 <id>nexus</id>
-                                <url>http://35.86.142.42:8081/repository/app-snapshots/</url>
+                                <url>http://54.162.47.55:8081/repository/app-snapshots/</url>
                         </snapshotRepository>
                         <repository>
                                 <id>nexus</id>
-                                <url>http://35.86.142.42:8081/repository/app-releases/</url>
+                                <url>http://54.162.47.55:8081/repository/app-releases/</url>
                         </repository>
                 </distributionManagement>
         <dependencies>
